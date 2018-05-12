@@ -1,4 +1,5 @@
 _repo: The-Vanishing-Point_50499
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Flagg, James Montgomery
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '25940'
     url: http://www.gutenberg.org/2009/agents/25940
     wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: archival
+  image_path: 50499-h/images/cover.jpg
 creator:
   author:
     agent_name: Dawson, Coningsby
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2497
     wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50499#The-Vanishing-Point
 gutenberg_issued: '2015-11-19'
 gutenberg_type: Text
 identifiers:
